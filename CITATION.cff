@@ -1,0 +1,22 @@
+# AUTHORS: replace the entity entry below by the list of authors (family-names, given-names, orcid, affiliation)
+# and add the article reference (preferred-citation) once the paper is accepted.
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. The accompanying article is under review."
+title: "What Tempering Can and Cannot Guarantee for Fractional-Order State-of-Charge Observers: Rate Ceiling, Certified Finite Memory and a Negative Offline Test on CALCE Data"
+abstract: "Reproducibility package (code, configuration, saved results, figures, tables, reports and technical reports) for a study of tempered fractional-order state-of-charge observers for lithium-ion cells, tested offline on the CALCE INR18650-20R dataset."
+type: software
+authors:
+  - name: "The TF-Li-Ion authors"
+repository-code: "https://github.com/emailnaifar-ai/TF-Li-Ion"
+url: "https://github.com/emailnaifar-ai/TF-Li-Ion"
+license: MIT
+version: 1.0.0
+date-released: "2026-09-28"
+keywords:
+  - lithium-ion battery
+  - state-of-charge estimation
+  - tempered fractional derivative
+  - fractional-order observer
+  - finite memory
+  - linear matrix inequality
+  - CALCE

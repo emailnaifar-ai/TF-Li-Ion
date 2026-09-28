@@ -1,0 +1,36 @@
+# CALCE records: never committed (not redistributed; see README, section 4)
+dataset/
+data_raw/
+data_processed/
+# working files and caches
+scratch/
+# tables of the article's supplementary material written by scripts/12_supp_tables_B.py (not in the repository)
+supp/
+reports/reproduce_log.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+# local upload instructions (not part of the repository)
+UPLOAD.md
+# LaTeX build files
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+# OS and editor files
+Thumbs.db
+.DS_Store
+*.tmp
+~$*
